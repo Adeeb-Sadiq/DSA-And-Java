@@ -1,4 +1,4 @@
-package concepts.sorting.selectionSort;
+package concepts.sorting;
 
 import java.util.Arrays;
 

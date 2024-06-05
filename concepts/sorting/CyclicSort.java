@@ -1,4 +1,4 @@
-package concepts.sorting.cycleSort;
+package concepts.sorting;
 
 import java.util.Arrays;
 

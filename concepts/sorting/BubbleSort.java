@@ -1,4 +1,4 @@
-package concepts.sorting.bubbleSort;
+package concepts.sorting;
 
 import java.util.Arrays;
 
